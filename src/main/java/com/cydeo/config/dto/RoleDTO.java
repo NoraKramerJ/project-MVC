@@ -1,6 +1,5 @@
-package com.cydeo.entity;
+package com.cydeo.config.dto;
 
-import jdk.jfr.DataAmount;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -8,8 +7,10 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Role {
-    private Long id;
+public class RoleDTO {
+
+    private long id;
     private String description;
+
 
 }

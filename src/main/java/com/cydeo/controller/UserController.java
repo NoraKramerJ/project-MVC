@@ -1,4 +1,4 @@
-package com.controller;
+package com.cydeo.controller;
 
 
 import org.springframework.stereotype.Controller;
