@@ -1,4 +1,4 @@
-package com.cydeo.config.dto;
+package com.cydeo.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
